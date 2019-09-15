@@ -1,0 +1,12 @@
+.body{
+  margin: 1.5rem 2rem;
+}
+
+.title{
+  color:white;
+  text-align: center;
+  text-shadow: 2px 1px 2px rgb(175, 118, 199),
+               2px 1px 1px rgb(255, 255, 255),
+               1px 2px 2px black;
+  padding-bottom: 30px;
+}
