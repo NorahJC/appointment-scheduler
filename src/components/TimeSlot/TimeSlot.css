@@ -1,0 +1,49 @@
+
+#body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card {
+    margin: 8rem;
+    box-shadow: 0 4px 8px 0 rgb(237, 236, 236);
+    border: 20px;
+    border-radius: 5px;
+    width: 20rem;
+    color: white;
+    background-color: rgb(219, 196, 255);
+}
+
+.card-body{
+    display: block;
+    margin: 0 auto;
+    padding: 1.8em; 
+}
+
+.label {
+    display: block;
+    font-size: 1.5em;
+    margin-top: 0.83em;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+
+.card-button{
+    display: flex;
+    justify-content: center;
+}
+.reserve{
+    margin-top: 2em;
+    width: 100px;
+    height: 35px;
+    border-radius: 5px;
+    color: white;
+    background-color:rgba(194, 84, 205, 0.749);
+    box-shadow: 1px 1px 2px 2px white;
+}
+
+/* Accent color:
+rgb(237, 236, 236)
+rgba(0,0,0,0.2) */
