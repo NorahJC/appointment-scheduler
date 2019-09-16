@@ -1,0 +1,69 @@
+#modal-cont{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    border: 2px solid grey;
+    background-color: rgb(237, 236, 236);
+    border-radius: 5px;  
+    text-align: center;
+    padding: 15px;  
+    width: 30%;
+}
+.label-cont{
+    display: flex;
+    flex-direction: column;
+    padding: 0 5em;
+}
+.mod{
+    display: flex;
+    text-align: left;
+    text-shadow: 1px 1px 2px grey;
+}
+
+.field-required{
+    color: red;
+}
+
+.w3-input:active {
+    box-shadow: 2px rgb(219, 196, 255);
+}
+
+input[type=text], input[type=tel] {
+    border: none;
+    border-radius: none;
+    border-bottom: 2px solid rgb(219, 196, 255);
+    border-bottom-style: line ;
+    background-color: transparent;
+    padding: 0 5px;
+    text-shadow: 1px 1px 2px grey;
+    width: 100%;
+
+} 
+
+input[type=submit]{
+    margin-top: 2em;
+    width: 100px;
+    height: 35px;
+    border-radius: 5px;
+    color: white;
+    background-color:rgb(219, 196, 255);
+    /* box-shadow: 1px 1px 2px 2px white; */
+}
+
+input:focus{
+    /* box-shadow: 0 -1px 1px rgb(219, 196, 255); */
+    outline: none;
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: white;
+    opacity: 1; /* Firefox */
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: white;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+    color: white;
+}
