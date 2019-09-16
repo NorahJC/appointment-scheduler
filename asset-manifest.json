@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/appointment-scheduler/static/css/main.0dd6de81.chunk.css",
+    "main.js": "/appointment-scheduler/static/js/main.8232a358.chunk.js",
+    "main.js.map": "/appointment-scheduler/static/js/main.8232a358.chunk.js.map",
+    "runtime~main.js": "/appointment-scheduler/static/js/runtime~main.471b3464.js",
+    "runtime~main.js.map": "/appointment-scheduler/static/js/runtime~main.471b3464.js.map",
+    "static/js/2.ae14a453.chunk.js": "/appointment-scheduler/static/js/2.ae14a453.chunk.js",
+    "static/js/2.ae14a453.chunk.js.map": "/appointment-scheduler/static/js/2.ae14a453.chunk.js.map",
+    "index.html": "/appointment-scheduler/index.html",
+    "precache-manifest.eedf0f3291c987cbb94ba6a523d5a8b4.js": "/appointment-scheduler/precache-manifest.eedf0f3291c987cbb94ba6a523d5a8b4.js",
+    "service-worker.js": "/appointment-scheduler/service-worker.js",
+    "static/css/main.0dd6de81.chunk.css.map": "/appointment-scheduler/static/css/main.0dd6de81.chunk.css.map"
+  }
+}
