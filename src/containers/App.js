@@ -2,6 +2,7 @@ import React from 'react';
 import TimeSlot from '../components/TimeSlot/TimeSlot';
 import SelectTime from '../components/SelectTime/SelectTime';
 import SlotList from '../components/SlotList/SlotList';
+import Modal from '../components/Modal/Modal';
 import './App.css';
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
       {/* <TimeSlot /> */}
       <SelectTime />
       <SlotList />
+      <Modal/>
      
     </div>
   );
