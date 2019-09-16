@@ -5,6 +5,7 @@ const Modal = () => {
     return (
         <div >
             <form id="modal-cont">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
                 <h2>Reserve Slot</h2>
                 <div className="label-cont">
                     <label className="mod"> Name: 
